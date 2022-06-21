@@ -7,5 +7,5 @@ nav: true
 nav_order: 2
 ---
 
-My course schedule
+
 
