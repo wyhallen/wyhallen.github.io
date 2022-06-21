@@ -18,3 +18,5 @@ toc:
 
 # MIT18.03 linear algebra
 test
+- [x] done
+- [ ] todo
