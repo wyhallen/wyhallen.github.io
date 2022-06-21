@@ -10,22 +10,15 @@ toc:
   - name: MIT18.03 linear algebra
 ---
 
-# MIT18.01 single variable calculus
 
-| topic | status | notes |
-| :-----: | :-----: | :-------: |
-| Derivatives, Slope, Velocity, Rate of change |   ✅   |   none   | 
+# MIT18.01
 
-# Courses & Projects
-
-## MIT18.01
-
-### materials
+## materials
 [`lecture notes of mit18.01 fall 2006`](https://ocw.mit.edu/courses/18-01-single-variable-calculus-fall-2006/pages/lecture-notes/)
 
-### schedule
+## schedule
 
-| topic                                                                  |      status      |                                                                                                     notes                                                                                                      |
+| topic                                                                  |      status      |                                                                                                     notes                                                                                                      |  
 | :--------------------------------------------------------------------- | :--------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | DERIVATIVES, SLOPE, VELOCITY, AND RATE OF CHANGE                       | ✅ |                                                      [`lec1-note`](https://ocw.mit.edu/courses/18-01-single-variable-calculus-fall-2006/resources/lec1/)                                                       |
 | Limits, continuity Trigonometric limits                                | ✅ |                                                      [`lec2-note`](https://ocw.mit.edu/courses/18-01-single-variable-calculus-fall-2006/resources/lec2/)                                                       |
@@ -41,14 +34,14 @@ toc:
 
 
 **************************************
-## MIT18.06 Linear Algebra
+# MIT18.06 Linear Algebra
 mit linear algebra course Spring 2010.  
 Notes are in [`MIT18.06 repo`](https://github.com/wyhallenwu/course-projects/tree/main/MIT18.06)  
 
-### info 
+## info 
 official website: <https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/pages/syllabus/>  
 
-### schedule
+## schedule
 | topic                                   |      status      | others     |
 | :-------------------------------------- | :--------------: | :--------- |
 | The geometry of linear equations        | ✅ | `note.1.1` |
@@ -64,16 +57,16 @@ official website: <https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/
 
 **************************************
 
-## CS106L standard C++ programming
+# CS106L standard C++ programming
 
 a great course which helps understand c++ better. Also a companion course of CS106X.
 
-### info
+## info
 offcial site: [`site`](http://web.stanford.edu/class/cs106l/)  
 some source were removed from standford official website. So check the site below:  
 related site: [`site`](https://learncs.me/stanford/cs106l)
 
-### schedule
+## schedule
 | topic                    |      status      | other  |
 | :----------------------- | :--------------: | :----- |
 | overview                 | ✅ | `repo` |
@@ -96,7 +89,7 @@ related site: [`site`](https://learncs.me/stanford/cs106l)
 | multithread              | ✅ | `repo` |
 
 
-### assignment
+## assignment
 source code are in my [`repo`](https://github.com/wyhallenwu/course-projects/tree/main/cs106L/assignment)     
   
 
@@ -106,18 +99,18 @@ source code are in my [`repo`](https://github.com/wyhallenwu/course-projects/tre
 *************************************
 
 
-## Computer Networking
+# Computer Networking
 
 Reference book: `Computer networking a top-down approach`  
 Other recommanded course: Stanford CS144(labs)  
 
-### schedule
+## schedule
 | top      |      status      | other      |
 | :------- | :--------------: | :--------- |
 | overview | ✅ | `chapter1` |
 
 
-### labs
+## labs
 - [x] networking warmup
 - [x] stitching substring into a byte stream
 - [x] the TCP receiver
@@ -131,14 +124,14 @@ Other recommanded course: Stanford CS144(labs)
 
 
 *************************************
-## Machine Learning (actually deep learning)
+# Machine Learning (actually deep learning)
 
 all labs are from [`ml spring 2021 ntu`](https://speech.ee.ntu.edu.tw/~hylee/ml/2021-spring.php)  can be found in my github repo.
 
-### materials
+## materials
 [`official page`](https://speech.ee.ntu.edu.tw/~hylee/ml/2021-spring.php)
 
-### schedule 
+## schedule 
 | topic                           |      status      | other                                                                                                 |
 | :------------------------------ | :--------------: | :---------------------------------------------------------------------------------------------------- |
 | Introduction                    | ✅ | [`slide`](https://speech.ee.ntu.edu.tw/~hylee/ml/ml2021-course-data/introduction-2021-v6-Chinese.pdf) |
@@ -163,24 +156,24 @@ all labs are from [`ml spring 2021 ntu`](https://speech.ee.ntu.edu.tw/~hylee/ml/
   - [x] construct conformer
 
 **************************************
-## Stanford CS224n
+# Stanford CS224n
 Some projects are from stanford cs224n and my implementations can be found below.  
 
-### some info
+## some info
 from lecture 9(self-attention and transformer), courses are invited talks which cover many nlp related fields. And these lectures bring me to ehe cutting edge of nlp researches.
 
-### materials
+## materials
 course official website: [cs224n](http://web.stanford.edu/class/cs224n/)
 
 1. `how to understand self-attention` [link](https://theaisummer.com/self-attention/)
 
-### nlp task of Chinese
+## nlp task of Chinese
 - [x] `word segmentation`
 - [x] `NER`: https://arxiv.org/pdf/1603.01360.pdf  
    LSTM-CRF(lstm-conditional random field)
 
 
-### schedule
+## schedule
 
 | topic                                         |      status      |                                                         notes/readings                                                         |
 | :-------------------------------------------- | :--------------: | :----------------------------------------------------------------------------------------------------------------------------: |
@@ -197,7 +190,7 @@ course official website: [cs224n](http://web.stanford.edu/class/cs224n/)
 | question answering                            | ✅ |                                                        `final project`                                                         |
 
 
-### Assignment
+## Assignment
 
 all codes are in [`my_nlp_repo`](https://github.com/wyhallenwu/course-projects/tree/main/cs224n)  
 Assignment4, 5 and final project need GPUs. Stanford students using MS Azure. One substitute is google colab, but I use free version of colab, it can't support the experiment.  
@@ -219,15 +212,15 @@ update: Finally, I test on two RTX3090.
 
 ***************************************
 
-## CS285 DRL
+# CS285 DRL
 a extra material for `shu intro2RL and game theory`   
 please check [`stanford cs285 official website`](http://rail.eecs.berkeley.edu/deeprlcourse/)  
 other materials include [`RL deepmind x UCL`](https://www.deepmind.com/learning-resources/reinforcement-learning-lecture-series-2021) and [`intro to RL`](https://github.com/zhoubolei/introRL)
 
-### projects
+## projects
 Some projects can be checked at [MyGithubRL](https://github.com/wyhallenwu/course-projects/tree/main/cs285DRL)  
 
-### schedule
+## schedule
 |              topic               |      status      | other  |
 | :------------------------------: | :--------------: | :----- |
 |             overview             | ✅ | `repo` |
@@ -235,12 +228,12 @@ Some projects can be checked at [MyGithubRL](https://github.com/wyhallenwu/cours
 
 **************************************
 
-## introduction to cryptography
+# introduction to cryptography
 
 official site: <https://crypto.stanford.edu/~dabo/courses/OnlineCrypto/>    
 my learning materials and labs [`github repo`](https://github.com/wyhallenwu/course-projects/tree/main/cryptography)
 
-### schedule
+## schedule
 | topic                     |      status      | other  |
 | :------------------------ | :--------------: | :----- |
 | overview                  | ✅ | `repo` |

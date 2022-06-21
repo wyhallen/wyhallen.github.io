@@ -12,5 +12,4 @@ nav_order: 2
 
 # reference
 [pytorch doc](https://pytorch.org/docs/stable/index.html)  
-[x] done
 

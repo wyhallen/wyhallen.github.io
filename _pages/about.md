@@ -7,7 +7,7 @@ subtitle: >
           Shanghai University
 
 profile:
-  align: left
+  align: right
   image: prof_pic.jpg
   address: >
 
