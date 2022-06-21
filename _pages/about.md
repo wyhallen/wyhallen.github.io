@@ -16,3 +16,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 I'm currently an ungraduate student at Shanghai University, majoring in Cyberspace security. My interests lie broadly at incorporating deep learning techniques with other systems to drastically improve the performance. Recently, I focus on 1) preparing for the entrance examination of U-Tokyo and Kyoto-U, 2) leveraging RL to make network system more efficient.
+
+
+## Education
+Shanghai University 2019-present
