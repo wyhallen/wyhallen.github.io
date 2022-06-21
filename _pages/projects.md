@@ -5,7 +5,7 @@ permalink: /projects/
 description: Some Course projects since 2021-09
 nav: true
 nav_order: 1
-display_categories: [work, fun]
+display_categories: [MATH, ]
 horizontal: false
 ---
 

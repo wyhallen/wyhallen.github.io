@@ -85,9 +85,9 @@ panelbear_analytics:  # panelbear analytics site ID (format: XXXXXXXXX)
 # -----------------------------------------------------------------------------
 
 blog_name: Docs # blog_name will be displayed in your blog page
-blog_nav_title: Main # your blog must have a title for it to be displayed in the nav bar
+blog_nav_title: docs # your blog must have a title for it to be displayed in the nav bar
 blog_description: Learning materials
-permalink: /blog/:year/:title/
+permalink: /docs/:year/:title/
 
 # Pagination
 pagination:
@@ -193,9 +193,9 @@ jekyll-archives:
     tag: archive-tag
     category: archive-category
   permalinks:
-    year: '/blog/:year/'
-    tag: '/blog/tag/:name/'
-    category: '/blog/category/:name/'
+    year: '/docs/:year/'
+    tag: '/docs/tag/:name/'
+    category: '/docs/category/:name/'
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
@@ -203,8 +203,8 @@ jekyll-archives:
 
 scholar:
 
-  last_name: Einstein
-  first_name: [Albert, A.]
+  last_name: Yuheng
+  first_name: Wu
 
   style: apa
   locale: en

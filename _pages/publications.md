@@ -3,7 +3,7 @@ layout: page
 permalink: /publications/
 title: publications
 description: Currently NULL
-years: [1956, 1950, 1935, 1905]
+years: []
 nav: true
 nav_order: 2
 ---
